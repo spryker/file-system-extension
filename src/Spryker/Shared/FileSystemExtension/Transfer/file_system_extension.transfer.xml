@@ -31,4 +31,7 @@
     <transfer name="FileSystemVisibility">
     </transfer>
 
+    <transfer name="FileSystemTemporaryUrlQuery">
+    </transfer>
+
 </transfers>
